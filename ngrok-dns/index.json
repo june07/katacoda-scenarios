@@ -1,24 +1,26 @@
 {
-  "title": "Ngrok-DNS",
-  "description": "Example Usage",
-  "difficulty": "Beginner",
-  "time": "1 min",
-  "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
-    ],
-    "intro": {
-      "text": "intro.md"
+    "title": "Ngrok-DNS",
+    "description": "Example Usage",
+    "difficulty": "Beginner",
+    "time": "1 min",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1",
+                "text": "step1.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
     },
-    "finish": {
-      "text": "finish.md"
+    "environment": {
+        "uilayout": "vscode-terminal-split"
+    },
+    "backend": {
+        "imageid": "javascript"
     }
-  },
-  "environment": {},
-  "backend": {
-    "imageid": "javascript"
-  }
 }
