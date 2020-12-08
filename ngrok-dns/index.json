@@ -3,20 +3,6 @@
     "description": "Example Usage",
     "difficulty": "Beginner",
     "time": "1 min",
-    "details": {
-        "steps": [
-            {
-                "title": "Step 1",
-                "text": "step1.md"
-            }
-        ],
-        "intro": {
-            "text": "intro.md"
-        },
-        "finish": {
-            "text": "finish.md"
-        }
-    },
     "files": [
         "app.js", "index.js"
     ],
