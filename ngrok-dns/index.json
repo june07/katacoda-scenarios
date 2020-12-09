@@ -8,7 +8,7 @@
             {
                 "title": "Install, update environment, done.",
                 "text": "step1.md",
-                "foreground": "install.js"
+                "foreground": "install.sh"
             }
         ],
         "assets": {
@@ -27,7 +27,7 @@
         }
     },
     "files": [
-        "install.js"
+        "install.sh"
     ],
     "environment": {
         "hideintro": true,
