@@ -31,8 +31,7 @@
     ],
     "environment": {
         "hideintro": true,
-        "uilayout": "editor-terminal",
-        "uieditorpath": "/root/assets"
+        "uilayout": "editor-terminal"
     },
     "backend": {
         "imageid": "nodejs:12"
