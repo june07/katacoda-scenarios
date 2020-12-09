@@ -11,9 +11,6 @@
                 "foreground": "/install.sh"
             }
         ],
-        "files": [
-            "app.js"
-        ],
         "assets": {
             "client": [
                 {
