@@ -19,6 +19,9 @@
             ]
         }
     },
+    "files": [
+        "acpp.js"
+    ],
     "environment": {
         "hideintro": true,
         "uilayout": "editor-terminal"
