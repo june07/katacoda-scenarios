@@ -10,7 +10,7 @@
         "uieditorpath": "/root/example",
         "showide": true,
         "idePort": 23000,
-        "uilayout": "terminal"
+        "uilayout": "vscode-terminal-split"
     },
     "backend": {
         "imageid": "javascript"
