@@ -30,7 +30,8 @@
     },
     "environment": {
         "hideintro": true,
-        "uilayout": "editor-terminal"
+        "uilayout": "editor-terminal",
+        "hideHiddenFiles": true
     },
     "backend": {
         "imageid": "nodejs:12"
