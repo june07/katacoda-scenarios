@@ -15,13 +15,15 @@
             "client": [
                 {
                     "file": "*",
-                    "target": "/root/"
+                    "target": "/root/",
+                    "chmod": "+x"
                 }
             ],
             "host01": [
                 {
                     "file": "*",
-                    "target": "/root/"
+                    "target": "/root/",
+                    "chmod": "+x"
                 }
             ]
         }
