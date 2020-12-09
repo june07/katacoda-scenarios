@@ -30,7 +30,7 @@
     },
     "environment": {
         "hideintro": true,
-        "uilayout": "editor-terminal",
+        "uilayout": "terminal",
         "hideHiddenFiles": true
     },
     "backend": {
