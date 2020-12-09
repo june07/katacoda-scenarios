@@ -6,7 +6,7 @@
     "details": {
         "steps": [
             {
-                "title": "Install, update environment, done.",
+                "title": "Install, update env, done.",
                 "text": "step1.md",
                 "foreground": "/install.sh"
             }
