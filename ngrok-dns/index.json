@@ -3,11 +3,19 @@
     "description": "Example Usage",
     "difficulty": "Beginner",
     "time": "1 min",
+    "details": {
+        "steps": [
+            {
+                "title": "",
+                "text": "step1.md"
+            }
+        ]
+    },
     "files": [
         "app.js", "index.js"
     ],
     "environment": {
-        "uilayout": "vscode-terminal-split"
+        "uilayout": "terminal"
     },
     "backend": {
         "imageid": "javascript"
