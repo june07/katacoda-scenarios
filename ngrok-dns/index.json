@@ -15,7 +15,7 @@
         "app.js", "index.js"
     ],
     "environment": {
-        "uilayout": "terminal"
+        "uilayout": "editor-terminal"
     },
     "backend": {
         "imageid": "javascript"
