@@ -1,13 +1,14 @@
 {
     "title": "Ngrok-DNS",
-    "description": "Example Usage",
+    "description": "How to use @667/ngrok-dns",
     "difficulty": "Beginner",
     "time": "1 min",
     "details": {
         "steps": [
             {
-                "title": "",
-                "text": "step1.md"
+                "title": "Install, update environment, done.",
+                "text": "step1.md",
+                "foreground": "npm install @667/ngrok-dns ngrok-dns"
             }
         ],
         "assets": {
@@ -19,9 +20,13 @@
             ]
         }
     },
+    "files": [
+        "app.js"
+    ],
     "environment": {
         "hideintro": true,
-        "uilayout": "editor-terminal"
+        "uilayout": "editor-terminal",
+        "uieditorpath": "/root/assets"
     },
     "backend": {
         "imageid": "nodejs:12"
