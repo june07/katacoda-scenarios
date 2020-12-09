@@ -11,6 +11,9 @@
                 "foreground": "/install.sh"
             }
         ],
+        "files": [
+            "app.js"
+        ],
         "assets": {
             "client": [
                 {
@@ -30,7 +33,7 @@
     },
     "environment": {
         "hideintro": true,
-        "uilayout": "terminal",
+        "uilayout": "editor-terminal",
         "hideHiddenFiles": true
     },
     "backend": {
