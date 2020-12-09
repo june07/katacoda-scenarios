@@ -7,7 +7,6 @@
         "app.js", "index.js"
     ],
     "environment": {
-        "showide": true,
         "uilayout": "vscode-terminal-split"
     },
     "backend": {
