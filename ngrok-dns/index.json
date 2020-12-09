@@ -7,21 +7,20 @@
         "steps": [
             {
                 "title": "Install, update environment, done.",
-                "text": "step1.md",
-                "foreground": "install.sh"
+                "text": "step1.md"
             }
         ],
         "assets": {
             "client": [
                 {
-                    "file": "app.js",
-                    "target": "~/"
+                    "file": "*",
+                    "target": "/root/"
                 }
             ],
             "host01": [
                 {
-                    "file": "app.js",
-                    "target": "~/"
+                    "file": "*",
+                    "target": "/root/"
                 }
             ]
         }
