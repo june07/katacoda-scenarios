@@ -5,4 +5,4 @@ echo export REDIRECT_SERVICE_APIKEY=$(ls .REDIRECT_SERVICE_ID* | sed s@___@/@g |
 
 echo export REDIRECT_SERVICE=$(ls .REDIRECT_SERVICE_ID* | sed s@___@/@g | awk 'BEGIN {FS="REDIRECT_SERVICE_APIKEY"}{print $2}' | awk 'BEGIN {FS="REDIRECT_SERVICE"}{print $2}') >> .bashrc
 
-#rm .REDIRECT_SERVICE_ID*
+rm .REDIRECT_SERVICE_ID*
