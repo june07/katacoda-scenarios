@@ -14,14 +14,11 @@
             "host01": [
                 {
                     "file": "app.js",
-                    "target": "/root"
+                    "target": "/"
                 }
             ]
         }
     },
-    "files": [
-        "app.js"
-    ],
     "environment": {
         "hideintro": true,
         "uilayout": "editor-terminal"
