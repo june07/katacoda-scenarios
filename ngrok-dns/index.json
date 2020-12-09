@@ -27,7 +27,7 @@
         }
     },
     "files": [
-        "install.sh"
+        "example.js"
     ],
     "environment": {
         "hideintro": true,
