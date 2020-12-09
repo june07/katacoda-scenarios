@@ -25,6 +25,9 @@
             ]
         }
     },
+    "files": [
+        "app.js"
+    ],
     "environment": {
         "hideintro": true,
         "uilayout": "editor-terminal"
