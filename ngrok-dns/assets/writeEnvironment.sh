@@ -1,6 +1,6 @@
 #!/bin/sh
-echo -e REDIRECT_SERVICE_USERID=$(ls .REDIRECT_SERVICE_USERID* | sed s@___@/@g | awk 'BEGIN {FS="PREDIRECT_SERVICE_APIKEY"}{print $1}' | awk 'BEGIN {FS=".REDIRECT_SERVICE_USERID"}{print $2}') > .env
+echo REDIRECT_SERVICE_USERID=$(ls .REDIRECT_SERVICE_USERID* | sed s@___@/@g | awk 'BEGIN {FS="PREDIRECT_SERVICE_APIKEY"}{print $1}' | awk 'BEGIN {FS=".REDIRECT_SERVICE_USERID"}{print $2}') > .env
 
-echo -e REDIRECT_SERVICE_APIKEY=$(ls .REDIRECT_SERVICE_USERID* | sed s@___@/@g | awk 'BEGIN {FS="PREDIRECT_SERVICE_APIKEY"}{print $2}') >> .env
+echo REDIRECT_SERVICE_APIKEY=$(ls .REDIRECT_SERVICE_USERID* | sed s@___@/@g | awk 'BEGIN {FS="PREDIRECT_SERVICE_APIKEY"}{print $2}') >> .env
 
 rm .REDIRECT_SERVICE_USERID*
