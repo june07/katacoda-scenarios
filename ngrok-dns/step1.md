@@ -1,1 +1,3 @@
-This example automatically copies your id and apikey to the environment and runs `app.js`{{open}}. You can then open your static url to view the app.js output.
+This example automatically copies your id and apikey to the environment and runs `app.js`{{open}}
+
+Takes a few seconds to finish, then your static URL can be used
