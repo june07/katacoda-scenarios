@@ -1,1 +1,1 @@
-npm install @667/ngrok-dns ngrok-dns
+npm install @667/ngrok-dns ngrok
