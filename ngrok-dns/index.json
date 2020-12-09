@@ -14,7 +14,7 @@
             "host01": [
                 {
                     "file": "app.js",
-                    "target": "/root"
+                    "target": "/"
                 }
             ]
         }
