@@ -8,7 +8,7 @@
             {
                 "title": "Install, update environment, done.",
                 "text": "step1.md",
-                "foreground": "~/install.sh"
+                "foreground": "install.sh"
             }
         ],
         "assets": {
