@@ -7,9 +7,7 @@
         "app.js", "index.js"
     ],
     "environment": {
-        "uieditorpath": "/root/example",
         "showide": true,
-        "idePort": 23000,
         "uilayout": "vscode-terminal-split"
     },
     "backend": {
