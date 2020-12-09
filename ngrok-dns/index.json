@@ -8,7 +8,7 @@
             {
                 "title": "Install, update environment, done.",
                 "text": "step1.md",
-                "foreground": "npm install @667/ngrok-dns ngrok-dns"
+                "foreground": "install.sh"
             }
         ],
         "assets": {
