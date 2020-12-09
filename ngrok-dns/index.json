@@ -26,9 +26,6 @@
             ]
         }
     },
-    "files": [
-        "example.js"
-    ],
     "environment": {
         "hideintro": true,
         "uilayout": "editor-terminal"
